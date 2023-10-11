@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoelBoci
+- 👀 I’m interested in software engineering, computers, programming...... anything tech related really!
+- 🌱 I’m currently studying Computing at university and I'm doing Software Engineering on a placement at a water company.
+- 📫 How to reach me:
+      - My email address is joel_boci@hotmail.com     
